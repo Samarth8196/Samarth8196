@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **samarthtiwatne1971@gmail.com**
 
-- ⚡ Fun fact **Fun fact I am fanny 😜**
+- ⚡ Fun fact **I am fanny 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
