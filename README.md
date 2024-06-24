@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samarth Pramod Tiwatne</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/Samarth8196/Samarth8196/main/banner-3.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth8196&label=Profile%20views&color=0e75b6&style=flat" alt="samarth8196" /> </p>
