@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samarth Pramod Tiwatne</h1>
 <div align="center"> <img src="https://camo.githubusercontent.com/7e5e39b592d68715da3f53bf79e626da7f5a88c7fae09ef87ca1efe4d45054a4/68747470733a2f2f67617065722e696f2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f6d65726e2d737461636b2e77656270"> </div>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
